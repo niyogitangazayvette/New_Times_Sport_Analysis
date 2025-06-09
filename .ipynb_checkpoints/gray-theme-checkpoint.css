@@ -1,0 +1,10 @@
+/* Full gray background for code blocks */
+.reveal pre code {
+  background-color: #808080 !important;  /* standard gray */
+  color: white !important;               /* text color for contrast */
+}
+
+/* Optional: make entire slide background gray */
+.reveal .slide-background {
+  background-color: #d3d3d3 !important;
+}
